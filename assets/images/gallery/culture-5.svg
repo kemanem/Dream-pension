@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" width="900" height="1000" role="img" aria-label="Gallery — Festival">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B4423"/>
+      <stop offset="100%" stop-color="#B5651D"/>
+    </linearGradient>
+    <pattern id="p" width="60" height="60" patternUnits="userSpaceOnUse" patternTransform="rotate(20)">
+      <circle cx="30" cy="30" r="1.4" fill="rgba(255,255,255,0.18)"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <rect width="100%" height="100%" fill="url(#p)"/>
+  <rect x="0" y="0" width="100%" height="100%" fill="rgba(20,14,8,0.08)"/>
+  <text x="50%" y="50%" font-family="Georgia, serif" font-size="40" fill="rgba(255,255,255,0.92)" text-anchor="middle" dominant-baseline="middle">Gallery — Festival</text>
+  <text x="50%" y="556" font-family="sans-serif" font-size="18" fill="rgba(255,255,255,0.55)" text-anchor="middle" dominant-baseline="middle">Placeholder — replace with photography</text>
+</svg>
